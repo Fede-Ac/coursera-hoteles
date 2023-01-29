@@ -1,0 +1,19 @@
+{
+  "name": "coursera-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto en nodeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fede-Ac/coursera-hoteles.git"
+  },
+  "author": "Fede-Ac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fede-Ac/coursera-hoteles/issues"
+  },
+  "homepage": "https://github.com/Fede-Ac/coursera-hoteles#readme"
+}
